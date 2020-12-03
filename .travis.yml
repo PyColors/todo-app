@@ -6,7 +6,7 @@ node_js:
   - 10
   
 script:
-  - npm build
+  - yarn build
 
 cache:
   yarn: true
